@@ -16,7 +16,7 @@ export default function Banner() {
                     </div>
                     <div className="tag d-flex  justify-content-between p-5">
                         <div className="one">
-                            <h3>3.5 Million+</h3>
+                            <h3>3 Million+</h3>
                             <p>App Downloads</p>
                         </div>
                         <div className="one">
